@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SCVt0OYF)
-Name: ................
+Name: Anindya Kaila Premono
 
-NIM : ................
+NIM : 1313624062
 
 # Instruction
 1. Fill in your details
@@ -11,8 +11,9 @@ NIM : ................
 5. This assignment is due October 20th, 23:55 AM
 
 # Features Implemented (list all completed)
-1. ...............
-2. 
+1. BANK_DEPOSIT, BANK_WITHDRAW, BANK_TRANSFER,
+2. STORE_LIST_UNCOMPLETED_BUTPAID, STORE_TOP_M_ITEMS, STORE_TOPCTIVE_BUYERS, STORE_TOPACTIVE_SELLERS,
+3. LOGIN_REGISTER
 
 # Collaborators (The person you learned from)
 1. ..........
@@ -21,10 +22,10 @@ NIM : ................
 1. ...........
 
 # AI Assistance
-AI Tools: .............
+AI Tools: Microsoft Copilot
 
-Paid AI Plugin (state none, if not subscribed): .............
+Paid AI Plugin (state none, if not subscribed): none
 
-Total Prompts used (int estimate): .............
+Total Prompts used (int estimate): 15 ish
 
-Dominant prompt used for (seek solution / implement ideas) : ..............
+Dominant prompt used for (seek solution / implement ideas) : fix errors (seek solution)
